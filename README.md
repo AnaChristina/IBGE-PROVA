@@ -7,6 +7,6 @@
 Aplicativo web para consultar a ocorrência de nomes por décadas do IBGE
 <br>
 <br>
-:bookmark_tabs: [Requisitos](https://github.com/JulianaMaria-Lab/IBGE/blob/main/front/arquivos/Prova28nov-TipoA.pdf)
+:bookmark_tabs: [Requisitos](https://github.com/JulianaMaria-Lab/IBGE/blob/main/front/README.md)
 
 
